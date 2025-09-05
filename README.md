@@ -24,7 +24,15 @@ operators for preprocessing:
 3) ***Stemming:*** Apply stemming to reduce words to their root forms. You can use operators like "Stem (Porter)"
 for this purpose.
 
-
 ### Output:
 
+<img width="828" height="415" alt="image" src="https://github.com/user-attachments/assets/72b246ee-79c6-41f3-844e-c9589afff8df" />
+
+<img width="828" height="435" alt="image" src="https://github.com/user-attachments/assets/3cb6ad76-f90a-46af-b2a4-fb392a77f965" />
+
+<img width="825" height="385" alt="image" src="https://github.com/user-attachments/assets/e26560d4-20e1-419f-8754-28478200daad" />
+
+
 ### Result:
+
+Thus the experiment to implement preprocessing technique on Twitter Data using Rapidminer is done successfully.
